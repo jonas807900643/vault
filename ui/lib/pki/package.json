@@ -29,7 +29,7 @@
     "@types/ember__routing": "latest",
     "@types/ember__runloop": "latest",
     "@types/ember__service": "latest",
-    "@types/ember__string": "latest",
+    "@types/ember__string": "3.16.3",
     "@types/ember__template": "latest",
     "@types/ember__test": "latest",
     "@types/ember__test-helpers": "latest",
