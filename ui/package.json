@@ -254,7 +254,7 @@
     "handlebars": "^4.3.0",
     "highlight.js": "^10.4.1",
     "js-yaml": "^3.13.1",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.23",
     "node-notifier": "^8.0.1",
     "pvtsutils": "^1.3.2"
   }
